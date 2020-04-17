@@ -1,6 +1,6 @@
 {
   "name": "@aaxis/share-components",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "main": "lib/index.js",
   "scripts": {
     "dev": "next -p 6100",
@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/DerekHuShuang/multi-zone-share-components",
   "dependencies": {
+    "axios": "^0.19.2",
     "next": "8.1.0",
     "react": "16.8.6",
     "react-dom": "16.8.6"
